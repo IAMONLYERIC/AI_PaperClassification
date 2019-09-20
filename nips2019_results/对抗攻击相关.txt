@@ -1,0 +1,57 @@
+Adversarial Examples Are Not Bugs, They Are Features
+The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection  OOO
+You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle
+Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection  OOO
+Metric Learning for Adversarial Robustness  OOO
+Adversarial Self-Defense for Cycle-Consistent GANs
+Model Compression with Adversarial Robustness: A Unified Optimization Framework  OOO  OOO
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets  OOO
+A New Defense Against Adversarial Images: Turning a Weakness into a Strength
+Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training
+Conditional Independence Testing using Generative Adversarial Networks  OOO
+On the Optimality of Perturbations in Stochastic and Adversarial Multi-armed Bandit Problems
+Fooling Neural Network Interpretations via Adversarial Model Manipulation  OOO  OOO
+Quality Aware Generative Adversarial Networks  OOO
+Adversarial training for free!
+Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks
+On Adversarial Mixup Resynthesis
+Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks  OOO  OOO
+Face Reconstruction from Voice using Generative Adversarial Networks  OOO  OOO
+Time-series Generative Adversarial Networks  OOO
+Robustness to Adversarial Perturbations in Learning from Incomplete Data
+Adversarial Training and Robustness for Multiple Perturbations
+Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning  OOO  OOO
+Quantum Wasserstein Generative Adversarial Networks  OOO
+Learning from Label Proportions with Generative Adversarial Networks  OOO
+Nonzero-sum Adversarial Hypothesis Testing Games
+Lower Bounds on Adversarial Robustness from Optimal Transport
+Detecting Overfitting via Adversarial Examples  OOO
+Error Correcting Output Codes Improve Probability Estimation and Adversarial Robustness of Deep Neural Networks  OOO
+Efficient online learning with kernels for adversarial large scale problems
+Certified Adversarial Robustness with Addition Gaussian Noise
+Zero-shot Knowledge Transfer via Adversarial Belief Matching  OOO
+A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning  OOO
+Functional Adversarial Attacks
+MarginGAN: Adversarial Training in Semi-Supervised Learning  OOO
+Large Scale Adversarial Representation Learning  OOO
+InteractiveRecGAN: a Model Based Reinforcement Learning Method with Adversarial Training for Online Recommendation  OOO
+Cross-Modal Learning with Adversarial Samples
+Improving Black-box Adversarial Attacks with a Transfer-based Prior
+Exponential Family Estimation via Adversarial Dynamics Embedding  OOO
+Adversarial Fisher Vectors for Unsupervised Representation Learning  OOO  OOO
+Unlabeled Data Improves Adversarial Robustness
+Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers
+Online EXP3 Learning in Adversarial Bandits with Delayed Feedback
+Theoretical evidence for adversarial robustness through randomization
+Adversarial Music: Real world Audio Adversary against Wake-word Detection System  OOO
+Learning to Confuse: Generating Training Time Adversarial Data with Auto-Encoder
+Are Labels Required for Improving Adversarial Robustness?
+Theoretical Analysis Of Adversarial Learning: A Minimax Approach
+Provably robust boosted decision stumps and trees against adversarial attacks  OOO
+Convergence of Adversarial Training in Overparametrized Neural Networks  OOO
+On Robustness to Adversarial Examples and Polynomial Optimization  OOO
+Adversarial Robustness through Local Linearization
+Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes
+Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness  OOO
+MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis  OOO
+On Relating Explanations and Adversarial Examples  OOO

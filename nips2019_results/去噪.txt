@@ -1,0 +1,6 @@
+Block Coordinate Regularization by Denoising
+Extending Stein’s Unbiased Risk Estimator To Train Deep Denoisers with Correlated Pairs of Noisy Images
+Variational Denoising Network: Toward Blind Noise Modeling and Removal  OOO
+Regularizing Trajectory Optimization with Denoising Autoencoders  OOO
+High-Quality Self-Supervised Deep Image Denoising
+Manifold denoising by Nonlinear Robust Principal Component Analysis

@@ -1,0 +1,227 @@
+High Fidelity Video Prediction with Large Neural Nets
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks  OOO
+Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection
+Deep ReLU Networks Have Surprisingly Few Activation Patterns
+DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction  OOO
+CPM-Nets: Cross Partial Multi-View Networks
+ETNet: Error Transition Network for Arbitrary Style Transfer
+Network Pruning via Transformable Architecture Search  OOO
+Volumetric Correspondence Networks for Optical Flow  OOO
+Learning Conditional Deformable Templates with Convolutional Networks
+Reducing Scene Bias of Convolutional Neural Networks for Human Action Understanding
+Powerset Convolutional Neural Networks
+Joint Optimizing of Cycle-Consistent Networks
+Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations  OOO  OOO
+ Value Propagation for Decentralized Networked Deep Multi-agent  Reinforcement Learning
+Neuron Communication Networks
+Regression Planning Networks  OOO
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets
+Deliberative Explanations: visualizing network insecurities
+Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution
+Fine-grained Optimization of Deep Neural Networks  OOO
+Hyperspherical Prototype Networks
+Expressive power of tensor-network factorizations for probabilistic modelling
+HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs
+Unconstrained Monotonic Neural Networks
+ResNets Ensemble via the Feynman-Kac Formalism to Improve Natural and Robust Accuracies
+Variational Denoising Network: Toward Blind Noise Modeling and Removal
+Data-Dependence of Plateau Phenomenon in Learning with Neural Network --- Statistical Mechanical Analysis
+Cascaded Dilated Dense Network with Two-step Data Consistency for MRI Reconstruction  OOO
+Visualizing the PHATE of Neural Networks
+Channel Gating Neural Networks
+Neural networks grown and self-organized by noise
+Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting
+Transferable Normalization: Towards Improving Transferability of Deep Neural Networks
+Random deep neural networks are biased towards simple functions
+CNN^{2}: Viewpoint Generalization via a Binocular Vision
+An Improved Analysis of Training Over-parameterized Deep Neural Networks
+Improving Textual Network Learning with Variational Homophilic Embeddings  OOO
+Fully Neural Network based Model for General Temporal Point Processes
+Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks  OOO
+Provably Powerful Graph Networks
+Conditional Independence Testing using Generative Adversarial Networks
+Hyper-Graph-Network Decoders for Block Codes
+Backprop with Approximate Activations for Memory-efficient Network Training
+Adapting Neural Networks for the Estimation of Treatment Effects
+On Learning Over-parameterized Neural Networks: A Functional Approximation Prospective
+Visual Sequence Learning  in Hierarchical Prediction Networks and Primate Visual Cortex
+Fooling Neural Network Interpretations via Adversarial Model Manipulation
+Quality Aware Generative Adversarial Networks
+Approximate Inference Turns Deep Networks into Gaussian Processes  OOO
+Implicit Regularization of Discrete Gradient Dynamics in Deep Linear Neural Networks
+Deep Set Prediction Networks
+DppNet: Approximating Determinantal Point Processes with Deep Networks
+Self-normalization in Stochastic Neural Networks
+Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration
+SGD on Neural Networks Learns Functions of Increasing Complexity
+Bat-G net: Bat-inspired High-Resolution 3D Image Reconstruction using Ultrasonic Echoes  OOO  OOO
+Scalable Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data  OOO
+MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization
+Cross Attention Network for Few-shot Classification  OOO  OOO  OOO
+SCAN: A Scalable Neural Networks Framework Towards Compact and Efficient Models
+Approximation Ratios of Graph Neural Networks for Combinatorial Problems
+Full-Gradient Representation for Neural Network Visualization  OOO
+Understanding attention in graph neural networks  OOO
+Efficient Graph Generation with Graph Recurrent Attention Networks  OOO
+Learning New Tricks From Old Dogs: Multi-Source Transfer Learning From Pre-Trained Networks
+U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging
+Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks  OOO
+The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
+Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting
+Hyperbolic Graph Convolutional Neural Networks
+Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks
+SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers
+Adaptive Video-to-Video Synthesis via Network Weight Generation
+E2-Train: Energy-Efficient Deep Network Training with Data-, Model-, and Algorithm-Level Saving
+Face Reconstruction from Voice using Generative Adversarial Networks  OOO
+Incremental Few-Shot Learning with Attention Attractor Networks  OOO  OOO
+Input Similarity from the Neural Network Perspective
+Weight Agnostic Neural Networks
+Time-series Generative Adversarial Networks
+Exploring Unexplored Tensor Decompositions for Convolutional Neural Networks
+Focused Quantization for Sparse CNNs
+Connective Cognition Network for Directional Visual Commonsense Reasoning
+Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels
+XLNet: Generalized Autoregressive Pretraining for Language Understanding
+Comparison Against Task Driven Artificial Neural Networks Reveals Functional Properties in Mouse Visual Cortex
+Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network
+AutoAssist: A Framework to Accelerate Training of Deep Neural Networks
+DFNets: Spectral CNNs for Graphs with Feedback-looped Filters
+Constrained deep neural network architecture search for IoT devices accounting hardware calibration
+Intrinsic dimension of data representations in deep neural networks  OOO
+Compositional De-Attention Networks  OOO
+Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning  OOO
+Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers
+L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise
+Reliable training and estimation of variance networks
+Bayesian Learning of Sum-Product Networks  OOO
+Global Sparse Momentum SGD for Pruning Very Deep Neural Networks  OOO
+The Normalization Method for Alleviating Pathological Sharpness in Wide Neural Networks
+Semi-supervisedly Co-embedding Attributed Networks  OOO
+Diffeomorphic Temporal Alignment Networks
+On the Power and Limitations of Random Features for Understanding Neural Networks
+Neural Shuffle-Exchange Networks - Sequence Processing in O(n log n) Time
+On the Convergence Rate of Training Recurrent Neural Networks in the Overparameterized Regime
+Large Scale Structure of Neural Network Loss Landscapes
+Quantum Wasserstein Generative Adversarial Networks
+Dichotomize and Generalize: PAC-Bayesian Binary Activated Deep Neural Networks  OOO
+Dynamics of stochastic gradient descent for two-layer neural networks in the teacher-student setup
+GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs
+A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off
+Updates of Equilibrium Prop Match Gradients of Backprop Through Time in an RNN with Static Input
+Universal Invariant and Equivariant Graph Neural Networks
+Learning from Label Proportions with Generative Adversarial Networks
+PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation  OOO  OOO
+Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization  OOO
+PerspectiveNet: A Scene-consistent Image Generator for New View Synthesis in Real Indoor Environments
+Self-Routing Capsule Networks
+Bipartite expander Hopfield networks as self-decoding high-capacity error correcting codes
+Probabilistic Logic Neural Networks for Reasoning
+How degenerate is the parametrization of neural networks with the ReLU activation function?
+Spike-Train Level Backpropagation for Training Deep Recurrent Spiking Neural Networks
+Towards Understanding the Importance of Shortcut Connections in Residual Networks
+Post training 4-bit quantization of convolutional networks for rapid-deployment
+Fast Convergence of Natural Gradient Descent for Over-Parameterized Neural Networks
+Learning Distributions Generated by One-Layer ReLU Networks  OOO
+On Exact Computation with an Infinitely Wide Neural Net
+Chirality Nets for Human Pose Regression  OOO
+Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds
+Hyperbolic Graph Neural Networks
+Gradient Dynamics of Shallow Low-Dimensional ReLU Networks
+Online Normalization for Training Neural Networks
+The Synthesis of XNOR Recurrent Neural Networks with Stochastic Logic
+Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
+Error Correcting Output Codes Improve Probability Estimation and Adversarial Robustness of Deep Neural Networks
+Graph Structured Prediction Energy Networks
+Seeing the Wind: Visual Wind Speed Prediction with a Coupled Convolutional and Recurrent Neural Network
+Recurrent Registration Neural Networks for Deformable Image Registration
+PRNet: Self-Supervised Learning for Partial-to-Partial Registration
+Retrosynthesis Prediction with Conditional Graph Logic Network
+Learning Bayesian Networks with Low Rank Conditional Probability Tables  OOO
+What Can ResNet Learn Efficiently, Going Beyond Kernels?
+STAR-Caps: Capsule Networks with Straight-Through Attentive Routing
+Limitations of Lazy Training of Two-layers Neural Network
+A General Theory of Equivariant CNNs on Homogeneous Spaces
+Sampling Networks and Aggregate Simulation for Online POMDP Planning
+GNNExplainer: Generating Explanations for Graph Neural Networks
+ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models  OOO
+Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel  OOO
+Data-dependent Sample Complexity of Deep Neural Networks via Lipschitz Augmentation
+A Benchmark for Interpretability Methods in Deep Neural Networks
+A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks
+Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes  OOO
+Neural Networks with Cheap Differential Operators
+SHE: A Fast and Accurate Deep Neural Network for Encrypted Data
+Metamers of neural networks reveal divergence from human perceptual systems
+Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks
+STREETS: A Novel Camera Network Dataset for Traffic Flow  OOO
+On the Expressive Power of Deep Polynomial Neural Networks
+Can SGD Learn Recurrent Neural Networks with Provable Generalization?
+Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks
+Splitting Steepest Descent for Progressive Training of Neural Networks
+Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence
+Variational Graph Recurrent Neural Networks
+Cell-Attention Reduces Vanishing Saliency of Recurrent Neural Networks  OOO
+Generalization Bounds of Stochastic Gradient Descent for Wide and Deep Neural Networks
+How to Initialize your Network? Robust Initialization for WeightNorm &amp; ResNets
+Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks
+MintNet: Building Invertible Neural Networks with Masked Convolutions
+Gaussian-Based Pooling for Convolutional Neural Networks
+Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
+Learning Neural Networks with Adaptive Regularization
+Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks
+DTWNet: a Dynamic Time Warping Network
+Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks
+Attribution-Based Confidence Metric For Deep Neural Networks
+Graph Transformer Networks
+Implicit Semantic Data Augmentation for Deep Networks
+Recurrent Space-time Graph Neural Networks
+Shallow RNN:  Accurate Time-series Classification on Resource Constrained Devices  OOO
+Piecewise Strong Convexity of Neural Networks
+Generalization Bounds for Neural Networks via Approximate Description Length
+Convergence of Adversarial Training in Overparametrized Neural Networks
+Generative Well-intentioned Networks
+On the Importance of Initialization in Optimization for Deep Linear Neural Networks  OOO
+ODE2VAE: Deep generative second order ODEs with Bayesian neural networks  OOO
+Recurrent Kernel Networks
+Search-Guided, Lightly-Supervised Training of Structured Prediction Energy Networks
+Non-normal Recurrent Neural Network (nnRNN): learning long time dependencies while improving expressivity with transient dynamics
+AutoPrun: Automatic Network Pruning by Regularizing Auxiliary Parameters  OOO
+Using Embeddings to Correct for Unobserved Confounding in Networks  OOO
+Semi-flat minima and saddle points by embedding neural networks to overparameterization  OOO
+On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks
+Universal Approximation of Input-Output Maps by Temporal Convolutional Nets
+Computing Linear Restrictions of Neural Networks
+A Similarity-preserving Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit
+General E(2)-Equivariant Steerable CNNs
+Deep Multi-State Dynamic Recurrent Neural Networks Operating on Wavelet Based Neural Features for Robust Brain Machine Interfaces
+Cormorant: Covariant Molecular Neural Networks
+Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness
+Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets
+Bayesian Layers: A Module for Neural Network Uncertainty  OOO
+Mindreader: A Self Validation Network for Object-Level Human Attention Reasoning  OOO
+Algorithm-Dependent Generalization Bounds for Overparameterized Deep Residual Networks
+Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors
+MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
+Surfing: Iterative Optimization Over Incrementally Trained Deep Networks  OOO
+An Algorithm to Learn Polytree Networks with Hidden Nodes  OOO
+Efficient Rematerialization for Deep Networks
+DeepWave: A Recurrent Neural-Network for Real-Time Acoustic Imaging
+Certifying Geometric Robustness of Neural Networks
+Input-Output Equivalence of Unitary and Contractive RNNs
+Hamiltonian Neural Networks
+Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks
+Deep and Structured Similarity Matching via Deep and Structured Hebbian/Anti-Hebbian Networks
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology  OOO
+Riemannian batch normalization for SPD neural networks
+Small ReLU networks are powerful memorizers: a tight analysis of memorization capacity
+Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks  OOO
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks  OOO
+Universality and individuality in neural dynamics across large populations of recurrent networks
+Are deep ResNets provably better than linear predictors?
+Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics  OOO
+BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos  OOO  OOO
+Abstraction based Output Range Analysis for Neural Networks
+The Geometry of Deep Networks: Power Diagram Subdivision
+Approximate Feature Collisions in Neural Nets
+Surround Modulation: A Bio-inspired Connectivity Structure for Convolutional Neural Networks

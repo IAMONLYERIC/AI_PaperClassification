@@ -1,0 +1,17 @@
+NAT: Neural Architecture Transformer for Accurate and Compact Architectures
+Network Pruning via Transformable Architecture Search  OOO  OOO
+DATA: Differentiable ArchiTecture Approximation
+XNAS: Neural Architecture Search with Expert Advice
+DAC: The Double Actor-Critic Architecture for Learning Options
+SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers  OOO
+Deep Active Learning with a Neural Architecture Search
+Constrained deep neural network architecture search for IoT devices accounting hardware calibration  OOO
+DetNAS: Backbone Search for Object Detection
+Stochastic Proximal Langevin Algorithm: Potential Splitting and Nonasymptotic Rates
+Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes  OOO  OOO
+Efficient Forward Architecture Search
+Meta Architecture Search
+Policy Optimization Provably Converges to Nash Equilibria in Zero-Sum Linear Quadratic Games  OOO
+Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning
+Towards modular and programmable architecture search
+Efficient Neural Architecture Transformation Search in Channel-Level for Object Detection

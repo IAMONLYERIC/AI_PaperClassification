@@ -1,0 +1,27 @@
+FreeAnchor: Learning to Match Anchors for Visual Object Detection
+The Point Where Reality Meets Fantasy: Mixed Adversarial Generators for Image Splice Detection
+Learning Erdos-Renyi Random Graphs via Edge Detecting Queries
+vGraph: A Generative Model for Joint Community Detection and Node Representation Learning  OOO
+Memory-oriented Decoder for Light Field Salient Object Detection
+Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift
+Deep Structured Prediction for Facial Landmark Detection
+Transfer Anomaly Detection by Inferring Latent Domain Representations  OOO
+One-Shot Object Detection with Co-Attention and Co-Excitation  OOO  OOO
+Addressing Failure Detection by Learning Model Confidence
+Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs
+Deep Multivariate Quantiles for Novelty Detection
+Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network  OOO  OOO
+Quantum Entropy Scoring for Fast Robust Mean Estimation and Improved Outlier Detection
+DetNAS: Backbone Search for Object Detection  OOO
+Detecting Overfitting via Adversarial Examples
+3D Object Detection from a Single RGB Image via Perspective Points  OOO
+Consistency-based Semi-supervised Learning for Object detection  OOO
+Statistical Analysis of Nearest Neighbor Methods for Anomaly Detection
+Optimizing Generalized PageRank Methods for Seed-Expansion Community Detection
+Adversarial Music: Real world Audio Adversary against Wake-word Detection System
+R2D2: Reliable and Repeatable Detectors and Descriptors for Joint Sparse Keypoint Detection and Local Feature Extraction
+A Similarity-preserving Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit  OOO
+Outlier Detection and Robust PCA Using a Convex Measure of Innovation
+Efficient Neural Architecture Transformation Search in Channel-Level for Object Detection  OOO
+Likelihood Ratios for Out-of-Distribution Detection  OOO
+PIDForest: Anomaly Detection and Certification via Partial Identification

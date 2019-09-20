@@ -1,0 +1,62 @@
+Staying up to Date with Online Content Changes Using Reinforcement Learning for Scheduling
+Regret Minimization for Reinforcement Learning on Multi-Objective Online Markov Decision Processes  OOO
+ Value Propagation for Decentralized Networked Deep Multi-agent  Reinforcement Learning  OOO
+Hierarchical Reinforcement Learning with Advantage-Based Auxiliary Rewards
+Multi-View Reinforcement Learning
+Sample-Efficient Deep Reinforcement Learning via Episodic Backward Update
+Information-Theoretic Confidence Bounds for Reinforcement Learning
+Regret Minimization for Reinforcement Learning by Evaluating the Optimal Bias Function
+Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition  OOO  OOO
+Real-Time Reinforcement Learning
+Convergent Policy Optimization for Safe Reinforcement Learning  OOO
+Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control
+Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning
+Learner-aware Teaching: Inverse Reinforcement Learning with Preferences and Constraints
+Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters
+A Geometric Perspective on Optimal Representations for Reinforcement Learning  OOO
+LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning
+Finite-Time Performance Bounds and Adaptive Learning Rate Selection for Two Time-Scale Reinforcement Learning
+Online Learning for Auxiliary Task Weighting for Reinforcement Learning
+A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning
+A Regularized Approach to Sparse Optimal Policy in Reinforcement Learning
+Fully Parameterized Quantile Function for Distributional Reinforcement Learning  OOO
+Distributional Reward Decomposition for Reinforcement Learning  OOO
+Interval timing in deep reinforcement learning agents
+On the Correctness and Sample Complexity of Inverse Reinforcement Learning
+VIREL: A Variational Inference Framework for Reinforcement Learning
+Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning  OOO
+Explicit Planning for Efficient Exploration in Reinforcement Learning
+Constrained Reinforcement Learning: A Dual Approach
+SMILe: Scalable Meta Inverse Reinforcement Learning through Context-Conditional Policies  OOO
+A Structured Prediction Approach for Generalization in Cooperative Multi-Agent Reinforcement Learning
+Loaded DiCE: Trading off Bias and Variance in Any-Order Score Function Gradient Estimators for Reinforcement Learning
+Budgeted Reinforcement Learning in Continuous State Space
+Language as an Abstraction for Hierarchical Deep Reinforcement Learning  OOO
+Non-Cooperative Inverse Reinforcement Learning
+Marginalized Off-Policy Evaluation for Reinforcement Learning
+Multi-Agent Common Knowledge Reinforcement Learning
+Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning
+Unsupervised Curricula for Visual Meta-Reinforcement Learning  OOO
+InteractiveRecGAN: a Model Based Reinforcement Learning Method with Adversarial Training for Online Recommendation
+Meta-Inverse Reinforcement Learning with Probabilistic Context Variables  OOO
+Tight Regret Bounds for Model-Based Reinforcement Learning with Greedy Policies
+Towards Interpretable Reinforcement Learning Using Attention Augmented Agents  OOO  OOO
+Generalization of Reinforcement Learners with Working and Episodic Memory
+Regret Bounds for Learning State Representations in Reinforcement Learning  OOO
+A Composable Specification Language for Reinforcement Learning Tasks  OOO
+The Option Keyboard: Combining Skills in Reinforcement Learning
+Biases for Emergent Communication in Multi-agent Reinforcement Learning
+Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning  OOO
+Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes
+Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck
+Reinforcement Learning with Convex Constraints 
+Using a Logarithmic Mapping to Enable Lower Discount Factors in Reinforcement Learning
+Correlation Priors for Reinforcement Learning
+When to use parametric models in reinforcement learning?
+Policy Poisoning in Batch Reinforcement Learning and Control
+Constraint Augmented Reinforcement Learning for Text-based Recommendation and Generation  OOO
+Search on the Replay Buffer: Bridging Planning and Reinforcement Learning
+Robust exploration in linear quadratic reinforcement learning 
+Learning Reward Machines for Partially Observable Reinforcement Learning
+A Family of Robust Stochastic Operators for Reinforcement Learning
+Imitation-Projected Policy Gradient for Programmatic Reinforcement Learning

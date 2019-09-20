@@ -1,0 +1,52 @@
+ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks
+vGraph: A Generative Model for Joint Community Detection and Node Representation Learning
+Efficient 3D Deep Learning via Point-Based Representation and Voxel-Based Convolution
+Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations
+Hierarchical Optimal Transport for Document Representation
+Meta-Learning Representations for Continual Learning  OOO
+Information Competing Process for Learning Diversified Representations
+Disentangled behavioural representations
+More Is Less: Learning Efficient Video Representations by Temporal Aggregation Module
+Gradient Information for Representation and Modeling
+Transfer Anomaly Detection by Inferring Latent Domain Representations
+Glyce: Glyph-vectors for Chinese Character Representations
+Greedy InfoMax for Biologically Plausible Self-Supervised Representation Learning
+Learning Representations for Time Series Clustering
+Full-Gradient Representation for Neural Network Visualization
+Learning Deep Bilinear Transformation for Fine-grained Image Representation
+A Geometric Perspective on Optimal Representations for Reinforcement Learning
+Disentangling Influence: Using disentangled representations to audit model predictions
+Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations
+Symmetry-Based Disentangled Representation Learning requires Interaction with Environments
+Unsupervised Scalable Representation Learning for Multivariate Time Series
+Learning Disentangled Representation for Robust Person Re-identification
+A Refined Margin Distribution Analysis for Forest Representation Learning
+Learning Disentangled Representations for Recommendation
+Intrinsic dimension of data representations in deep neural networks
+Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations
+Beyond Vector Spaces: Compact Data Representation as Differentiable Weighted Graphs
+PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation
+Continual Unsupervised Representation Learning
+Learning-In-The-Loop Optimization: End-To-End Control And Co-Design Of Soft Robots Through Learned Deep Latent Representations
+N-Gram Graph: A Simple Unsupervised Representation for Molecules
+Unsupervised State Representation Learning in Atari
+Modeling Expectation Violation in Intuitive Physics with Coarse Probabilistic Object Representations
+Unsupervised Co-Learning on $G$-Manifolds Across Irreducible Representations
+Learning Robust Global Representations by Penalizing Local Predictive Power
+Large Scale Adversarial Representation Learning
+Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation
+Adversarial Fisher Vectors for Unsupervised Representation Learning
+Rethinking Kernel Methods for Node Representation Learning on Graphs
+Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders 
+Regret Bounds for Learning State Representations in Reinforcement Learning
+Assessing Social and Intersectional Biases in Contextualized Word Representations
+A neurally plausible model learns successor representations in partially observable environments
+Are Disentangled Representations Helpful for Abstract Visual Reasoning?
+On the Benefits of Disentangled Representations
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology
+Neural Taskonomy: Inferring the Similarity of Task-Derived Representations from Brain Activity
+Learning Representations by Maximizing Mutual Information Across Views
+Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks
+Wasserstein Dependency Measure for Representation Learning
+Inherent Tradeoffs in Learning Fair Representation
+Self-attention with Functional Time Representation Learning

@@ -1,0 +1,46 @@
+ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks  OOO
+Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge
+Controllable Text to Image Generation
+Improving Textual Network Learning with Variational Homophilic Embeddings  OOO  OOO
+A Tensorized Transformer for Language Modeling
+Semi-Parametric Dynamic Contextual Pricing
+Drill-down: Interactive Retrieval of Complex Scenes using Natural Language Queries
+Identifying Causal Effects via Context-specific Independence Relations
+Thompson Sampling for Multinomial Logit Contextual Bandits
+FastSpeech: Fast, Robust and Controllable Text to Speech
+A Stickier Benchmark for General-Purpose Language Understanding Systems
+Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation  OOO
+Training Language GANs from Scratch
+Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations  OOO  OOO  OOO
+Offline Contextual Bayesian Optimization  OOO
+Learning in Generalized  Linear Contextual Bandits with Stochastic Delays
+On Accelerating Training of Transformer-Based Language Models
+XLNet: Generalized Autoregressive Pretraining for Language Understanding  OOO
+AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification  OOO  OOO  OOO
+Grid Saliency for Context Explanations of Semantic Segmentation  OOO
+Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  OOO
+Cross-lingual Language Model Pretraining
+SMILe: Scalable Meta Inverse Reinforcement Learning through Context-Conditional Policies
+Spherical Text Embedding  OOO
+A Robust Non-Clairvoyant Dynamic Mechanism for Contextual Auctions
+Language as an Abstraction for Hierarchical Deep Reinforcement Learning
+Contextual Bandits with Cross-Learning
+Dynamic Incentive-Aware Learning: Robust Pricing in Contextual Auctions
+Hierarchical Decision Making by Generating and Following Natural Language Instructions
+Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation  OOO  OOO
+Many-Armed Bandits with High-Dimensional Contexts under a Low-Rank Structure  OOO
+Meta-Inverse Reinforcement Learning with Probabilistic Context Variables
+Kernelized Bayesian Softmax for Text Generation  OOO
+A Composable Specification Language for Reinforcement Learning Tasks
+Unified Language Model Pre-training for Natural Language Understanding and Generation
+Episodic Memory in Lifelong Language Learning
+Assessing Social and Intersectional Biases in Contextualized Word Representations  OOO
+Stochastic Bandits with Context Distributions  OOO
+Inducing brain-relevant bias in natural language processing models
+Nonparametric Contextual Bandits in Metric Spaces with Unknown Metric
+Model Selection for Contextual Bandits
+Offline Contextual Bandits with High Probability Fairness Guarantees
+Interpreting and improving natural-language processing (in machines) with  natural language-processing (in the brain)
+Constraint Augmented Reinforcement Learning for Text-based Recommendation and Generation
+Can Unconditional Language Models Recover Arbitrary Sentences?
+Ease-of-Teaching and Language Structure from Emergent Communication

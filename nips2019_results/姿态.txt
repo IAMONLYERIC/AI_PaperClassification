@@ -1,0 +1,5 @@
+Learning Temporal Pose Estimation from Sparsely-Labeled Videos
+A Stickier Benchmark for General-Purpose Language Understanding Systems  OOO
+Self-Supervised Active Triangulation for 3D Human Pose Reconstruction  OOO
+Chirality Nets for Human Pose Regression  OOO  OOO
+Sim2real transfer learning for 3D pose estimation: motion to the rescue  OOO

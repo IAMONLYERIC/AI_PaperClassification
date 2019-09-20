@@ -1,0 +1,82 @@
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks  OOO  OOO  OOO
+Learning Erdos-Renyi Random Graphs via Edge Detecting Queries  OOO
+vGraph: A Generative Model for Joint Community Detection and Node Representation Learning  OOO  OOO  OOO
+Learning to Propagate for Graph Meta-Learning  OOO
+A Graph Theoretic Framework of Recomputation Algorithms for Memory-Efficient Backpropagation
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets  OOO  OOO  OOO
+HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs  OOO
+D-VAE: A Variational Autoencoder for Directed Acyclic Graphs  OOO
+Provably Powerful Graph Networks  OOO
+Hyper-Graph-Network Decoders for Block Codes  OOO
+Learning Transferable Graph Exploration
+Direct Estimation of Differential Functional Graphical Model
+Quaternion Knowledge Graph Embeddings  OOO
+Heterogeneous Graph Learning for Visual Commonsense Reasoning
+Combinatorial Bayesian Optimization using the Graph Cartesian Product  OOO
+Scalable Gromov-Wasserstein Learning for Graph Partitioning and Matching
+A Flexible Generative Framework for Graph-based Semi-supervised Learning  OOO  OOO
+KerGM: Kernelized Graph Matching
+Adaptive GNN for Image Analysis and Editing
+Efficiently Estimating Erdos-Renyi Graphs with Node Differential Privacy
+PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph  OOO
+Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs  OOO
+Approximation Ratios of Graph Neural Networks for Combinatorial Problems  OOO
+Understanding attention in graph neural networks  OOO  OOO
+Semantically-Regularized Logic Graph Embeddings  OOO
+Efficient Graph Generation with Graph Recurrent Attention Networks  OOO  OOO  OOO
+Globally optimal score-based learning of directed acyclic graphs in high-dimensions
+Multi-relational Poincaré Graph Embeddings  OOO
+End to end learning and optimization on graphs  OOO
+Spectral Modification of Graphs for Improved Spectral Clustering  OOO
+Hyperbolic Graph Convolutional Neural Networks  OOO
+Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels  OOO
+DFNets: Spectral CNNs for Graphs with Feedback-looped Filters  OOO
+Wasserstein Weisfeiler-Lehman Graph Kernels
+Graph-based Discriminators: Sample Complexity and Expressiveness
+Beyond Vector Spaces: Compact Data Representation as Differentiable Weighted Graphs  OOO
+Online Prediction of Switching Graph Labelings with Cluster Specialists  OOO
+Graph-Based Semi-Supervised Learning with Non-ignorable Non-response  OOO
+Universal Invariant and Equivariant Graph Neural Networks  OOO
+A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening
+Solving graph compression via optimal transport  OOO
+Stability of Graph Scattering Transforms
+Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models  OOO
+Möbius Transformation for Fast Inner Product Search on Graph
+Hyperbolic Graph Neural Networks  OOO
+Certifiable Robustness to Graph Perturbations
+N-Gram Graph: A Simple Unsupervised Representation for Molecules  OOO  OOO
+Graph Structured Prediction Energy Networks  OOO
+Graph Agreement Models for Semi-Supervised Learning  OOO
+Latent distance estimation for random geometric graphs
+Retrosynthesis Prediction with Conditional Graph Logic Network  OOO
+(Nearly) Efficient Algorithms for the Graph Matching Problem on Correlated Random Graphs
+GNNExplainer: Generating Explanations for Graph Neural Networks  OOO  OOO  OOO
+Learning Nearest Neighbor Graphs from Noisy Distance Samples
+A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning  OOO  OOO
+Bayesian Joint Estimation of Multiple Graphical Models  OOO
+Learning metrics for persistence-based summaries and applications for graph classification  OOO
+Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks  OOO
+Bandits with Feedback Graphs and Switching Costs
+Variational Graph Recurrent Neural Networks  OOO
+Semi-Implicit Graph Variational Auto-Encoders  OOO
+McDiarmid-Type Inequalities for Graph-Dependent Variables and Stability Bounds
+Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks  OOO
+Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks  OOO
+Structured Graph Learning Via Laplacian Spectral Constraints
+Rethinking Kernel Methods for Node Representation Learning on Graphs  OOO
+Graph Transformer Networks  OOO
+Counting the Optimal Solutions in Graphical Models
+Recurrent Space-time Graph Neural Networks  OOO
+Diffusion Improves Graph Learning
+On Differentially Private Graph Sparsification and Applications
+Graph Normalizing Flows  OOO
+A Graph Theoretic Additive Approximation of Optimal Transport
+GOT: An Optimal Transport framework for Graph comparison
+Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions
+Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs  OOO
+DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology  OOO  OOO
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks  OOO  OOO
+Exploring Algorithmic Fairness in Robust Graph Covering Problems
+Generative Models for Graph-Based Protein Design  OOO
+On the equivalence between graph isomorphism testing and function approximation with GNNs

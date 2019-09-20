@@ -1,0 +1,20 @@
+DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction
+Efficient 3D Deep Learning via Point-Based Representation and Voxel-Based Convolution  OOO
+Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations  OOO
+Cascaded Dilated Dense Network with Two-step Data Consistency for MRI Reconstruction
+Multiview Aggregation for Learning Category-Specific Shape Reconstruction
+Bat-G net: Bat-inspired High-Resolution 3D Image Reconstruction using Ultrasonic Echoes
+Self-Supervised Active Triangulation for 3D Human Pose Reconstruction
+Exploiting Local and Global Structure for Point Cloud Semantic Segmentation with Contextual Point Representations  OOO
+Face Reconstruction from Voice using Generative Adversarial Networks
+From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI
+Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds
+PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation  OOO
+Learning elementary structures for 3D shape generation and matching
+Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules
+Learning to Infer Implicit Surfaces without 3D Supervision
+3D Object Detection from a Single RGB Image via Perspective Points
+Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer
+Sim2real transfer learning for 3D pose estimation: motion to the rescue
+Self-Supervised Deep Learning on Point Clouds by Reconstructing Space
+End-to-End Learning on 3D Protein Structure for Interface Prediction

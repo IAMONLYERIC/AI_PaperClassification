@@ -1,0 +1,101 @@
+Zero-shot Learning via Simultaneous Generating and Learning  OOO
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks  OOO  OOO
+Asymptotic Guarantees for Learning Generative Models with the Sliced-Wasserstein Distance
+Blind Super-Resolution Kernel Estimation using an Internal-GAN  OOO
+Generalization in Generative Adversarial Networks: A Novel Perspective from Privacy Protection  OOO  OOO
+Reducing Noise in GAN Training with Variance Reduced Extragradient
+A Primal-Dual link between GANs and Autoencoders
+vGraph: A Generative Model for Joint Community Detection and Node Representation Learning  OOO  OOO
+Adversarial Self-Defense for Cycle-Consistent GANs  OOO
+Learn, Imagine and Create: Text-to-Image Generation from Prior Knowledge  OOO
+Explicit Disentanglement of Appearance and Perspective in Generative Models
+Twin Auxilary Classifiers GAN
+Conditional Structure Generation through Graph Variational Generative Adversarial Nets  OOO  OOO
+D-VAE: A Variational Autoencoder for Directed Acyclic Graphs
+Multi-marginal Wasserstein GAN
+Neural networks grown and self-organized by noise  OOO
+Controllable Text to Image Generation  OOO
+Rethinking Generative Coverage: A Pointwise Guaranteed Approach
+Conditional Independence Testing using Generative Adversarial Networks  OOO  OOO
+Integrating Generative and Discriminative Sparse Kernel Machines for  Multi-class Active Learning
+Dual Variational Generation for Low Shot Heterogeneous Face Recognition  OOO
+Regularizing Trajectory Optimization with Denoising Autoencoders  OOO  OOO
+Learning Hierarchical Priors in VAEs
+Quality Aware Generative Adversarial Networks  OOO  OOO
+A Flexible Generative Framework for Graph-based Semi-supervised Learning  OOO
+HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models  OOO
+Implicit Generation and Modeling with Energy Based Models
+Exact Rate-Distortion in Autoencoders via Echo Noise
+Improved Precision and Recall Metric for Assessing Generative Models
+PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph
+A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models
+Efficient Graph Generation with Graph Recurrent Attention Networks  OOO  OOO
+Training Language GANs from Scratch  OOO
+Adaptive Video-to-Video Synthesis via Network Weight Generation  OOO
+Optimistic Regret Minimization for Extensive-Form Games via Dilated Distance-Generating Functions
+Face Reconstruction from Voice using Generative Adversarial Networks  OOO  OOO  OOO
+Characterizing Bias in Classifiers using Generative Models
+Time-series Generative Adversarial Networks  OOO  OOO
+Almost Horizon-Free Structure-Aware Best Policy Identification with a Generative Model
+Learning GANs and Ensembles Using Discrepancy
+Co-Generation with GANs using AIS based HMC
+Addressing Sample Complexity in Visual Tasks Using HER and Hallucinatory GANs
+MaCow: Masked Convolutional Generative Flow  OOO
+Learning from Crap Data via Generation
+Mining GOLD Samples for Conditional GANs
+Direct Optimization through $\arg \max$ for Discrete Variational Auto-Encoder  OOO
+Progressive Augmentation of GANs
+Copulas as High-Dimensional Generative Models: Vine Copula Autoencoders
+BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling
+Code Generation as Dual Task of Code Summarization
+Multi-objects Generation with Amortized Structural Regularization
+Quantum Wasserstein Generative Adversarial Networks  OOO  OOO
+Learning from Label Proportions with Generative Adversarial Networks  OOO  OOO
+Emergence of Object Segmentation in Perturbed Generative Models  OOO
+Modeling Tabular data using Conditional GAN
+Learning elementary structures for 3D shape generation and matching  OOO
+Symmetry-adapted generation of 3d point sets for the targeted discovery of molecules  OOO
+Sequence Modelling with Unconstrained Generation Order
+The spiked matrix model with generative priors
+Revisiting Auxiliary Latent Variables in Generative Models
+Nonparametric Density Estimation &amp; Convergence Rates for GANs under Besov IPM Losses
+GNNExplainer: Generating Explanations for Graph Neural Networks  OOO  OOO
+Understanding Posterior Collapse in Variational Autoencoders
+Residual Flows for Invertible Generative Modeling  OOO
+Hierarchical Decision Making by Generating and Following Natural Language Instructions  OOO
+Discrete Object Generation with Reversible Inductive Construction
+MarginGAN: Adversarial Training in Semi-Supervised Learning  OOO  OOO
+Semi-Implicit Graph Variational Auto-Encoders
+InteractiveRecGAN: a Model Based Reinforcement Learning Method with Adversarial Training for Online Recommendation  OOO  OOO
+Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting
+Global Guarantees for Blind Demodulation with Generative Priors
+Generative Modeling by Estimating Gradients of the Data Distribution  OOO
+Learning to Confuse: Generating Training Time Adversarial Data with Auto-Encoder  OOO
+Adaptive Density Estimation for Generative Models
+Fast and Provable ADMM for Learning with Generative Priors
+A Domain Agnostic Measure for Monitoring and Evaluating GANs
+Classification Accuracy Score for Conditional Generative Models  OOO
+Kernelized Bayesian Softmax for Text Generation  OOO  OOO
+Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders   OOO
+Scalable Deep Generative Relational Model with High-Order Node Dependence
+Unified Language Model Pre-training for Natural Language Understanding and Generation  OOO
+Generative Well-intentioned Networks  OOO
+Self-supervised GAN: Analysis and Improvement with Multi-class Minimax Game
+The continuous Bernoulli: fixing a pervasive error in variational autoencoders
+ODE2VAE: Deep generative second order ODEs with Bayesian neural networks  OOO  OOO
+Exploration via Hindsight Goal Generation
+Shaping Belief States with Generative Environment Models for RL
+Paraphrase Generation with Latent Bag of Words
+A Solvable High-Dimensional Model of GAN
+Combining Generative and Discriminative Models for Hybrid Inference
+Inverting Deep Generative models, One layer at a time
+Defending Neural Backdoors via Generative Distribution Modeling  OOO
+Discrete Flows: Invertible Generative Models of Discrete Data  OOO
+Generating Diverse High-Fidelity Images with VQVAE-2
+MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis  OOO  OOO
+Constraint Augmented Reinforcement Learning for Text-based Recommendation and Generation  OOO  OOO
+Explicitly disentangling image content from translation and rotation with spatial-VAE
+Stacked Capsule Autoencoders
+Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models
+Generative Models for Graph-Based Protein Design
+Enabling hyperparameter optimization in sequential autoencoders for spiking neural data  OOO

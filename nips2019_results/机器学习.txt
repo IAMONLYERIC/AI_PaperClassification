@@ -1,0 +1,278 @@
+Divide and Couple: Using Monte Carlo Variational Objectives for Posterior Approximation
+Chasing Ghosts: Instruction Following as Bayesian State Tracking
+muSSP: Efficient Min-cost Flow Algorithm for Multi-object Tracking
+Metric Learning for Adversarial Robustness
+Differentially Private Bayesian Linear Regression
+Trust Region-Guided Proximal Policy Optimization
+Uniform Error Bounds for Gaussian Process Regression with Application to Safe Control
+Multiway clustering via tensor block models  
+Regret Minimization for Reinforcement Learning on Multi-Objective Online Markov Decision Processes
+Selecting Optimal Decisions via Distributionally Robust Nearest-Neighbor Regression
+Volumetric Correspondence Networks for Optical Flow
+Fast Low-rank Metric Learning for Large-scale and High-dimensional Data
+Efficient Symmetric Norm Regression via Linear Sketching
+Nonparametric Regressive Point Processes Based on Conditional Gaussian Processes
+Optimal Statistical Rates for Decentralised Non-Parametric Regression with Linear Speed-Up
+Online sampling from log-concave distributions
+Model Compression with Adversarial Robustness: A Unified Optimization Framework  OOO
+Regression Planning Networks
+Distributional Policy Optimization: An Alternative Approach for Continuous Control
+Fine-grained Optimization of Deep Neural Networks
+Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
+Multivariate Sparse Coding of Nonstationary Covariances with Gaussian Processes
+Learnable Tree Filter for Structure-preserving Feature Transform
+On the Ineffectiveness of Variance Reduced Optimization for Deep Learning
+On the Curved Geometry of Accelerated Optimization
+Nonconvex Low-Rank Tensor Completion from Noisy Data
+Beyond Online Balanced Descent: An Optimal Algorithm for Smoothed Online Optimization
+GENO -- GENeric Optimization for Classical Machine Learning
+Partitioning Structure Learning for Segmented Linear Regression Trees
+DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections
+Large Scale Markov Decision Processes with Changing Rewards
+Total Least Squares Regression in Input Sparsity Time
+Optimal Analysis of Subset-Selection Based L_p Low-Rank Approximation
+Learning Robust Options by Conditional Value at Risk Optimization
+PAC-Bayes under potentially heavy tails
+Bridging Machine Learning and Logical Reasoning by Abductive Learning
+A Linearly Convergent Proximal Gradient Algorithm for Decentralized  Optimization
+Regularizing Trajectory Optimization with Denoising Autoencoders
+Safe Exploration for Interactive Machine Learning
+Combinatorial Bayesian Optimization using the Graph Cartesian Product
+Spatially Aggregated Gaussian Processes with Multivariate Areal Outputs
+Approximate Inference Turns Deep Networks into Gaussian Processes
+Convergent Policy Optimization for Safe Reinforcement Learning
+Distinguishing Distributions When Samples Are Strategically Transformed
+Optimal Decision Tree with Noisy Outcomes
+Universal Boosting Variational Inference
+Making AI Forget You: Data Deletion in Machine Learning
+Conformalized Quantile Regression
+Learning Sample-Specific Models with Low-Rank Personalized Regression
+Asymptotics for Sketching in Least Squares Regression
+Scalable Structure Learning of Continuous-Time Bayesian Networks from Incomplete Data
+Learning Representations for Time Series Clustering  OOO
+A Normative Theory for Causal Inference and Bayes Factor Computation in Neural Circuits
+Stochastic Gradient Hamiltonian Monte Carlo Methods with Recursive Variance Reduction
+Principal Component Projection and Regression in Nearly Linear Time through Asymmetric SVRG
+Compression with Flows via Local Bits-Back Coding  OOO
+A First-order Algorithmic Framework for Distributionally Robust Logistic Regression
+Joint Optimization of Tree-based Index and Deep Model for Recommender Systems
+Learning Generalizable Device Placement Algorithms for Distributed Machine Learning
+Uncoupled Regression from Pairwise Comparison Data
+Regularized Weighted Low Rank Approximation
+Differentially Private Markov Chain Monte Carlo
+q-means: A quantum algorithm for unsupervised machine learning
+Flow-based Image-to-Image Translation with Feature Disentanglement
+Curvilinear Distance Metric Learning
+Practical Deep Learning with Bayesian Principles
+Pseudo-Extended Markov chain Monte Carlo
+Differentially Private Bagging: Improved utility and cheaper privacy than subsample-and-aggregate
+Double Quantization for Communication-Efficient Distributed Optimization
+State Aggregation Learning from Markov Transition Data
+Learning low-dimensional state embeddings and metastable clusters from time series data  OOO
+Scalable Bayesian dynamic covariance modeling with variational Wishart and inverse Wishart processes
+Kernel Instrumental Variable Regression
+Offline Contextual Bayesian Optimization
+End to end learning and optimization on graphs
+Optimal Sketching for Kronecker Product Regression and Low Rank Approximation
+Distribution-Independent PAC Learning of Halfspaces with Massart Noise
+Spectral Modification of Graphs for Improved Spectral Clustering
+Fair Algorithms for Clustering
+How many variables should be entered in a principal component regression equation?
+Factor Group-Sparse Regularization for Efficient Low-Rank Matrix Recovery
+Estimating Entropy of Distributions in Constant Space
+Reducing the variance in online optimization by transporting past gradients
+Regularized Gradient Boosting
+ Markov Random Fields for Collaborative Filtering
+A Step Toward Quantifying Independently Reproducible Machine Learning Research
+Scalable Global Optimization via Local Bayesian Optimization
+A Refined Margin Distribution Analysis for Forest Representation Learning  OOO
+An Adaptive Empirical  Bayesian Method for Sparse Deep Learning
+Optimal Best Markovian Arm Identification with Fixed Confidence
+Invertible Convolutional Flow
+A Latent Variational Framework for Stochastic Optimization
+Online Markov Decoding: Lower Bounds and Near-Optimal Approximation Algorithms
+AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification  OOO  OOO
+DM2C: Deep Mixed-Modal Clustering
+MaCow: Masked Convolutional Generative Flow
+Iterative Least Trimmed Squares for Mixed Linear Regression
+Divergence-Augmented Policy Optimization
+Fully Parameterized Quantile Function for Distributional Reinforcement Learning
+Direct Optimization through $\arg \max$ for Discrete Variational Auto-Encoder
+Distributional Reward Decomposition for Reinforcement Learning
+Convergence Guarantees for Adaptive Bayesian Quadrature Methods
+UniXGrad: A Universal, Adaptive Algorithm with Optimal Guarantees for Constrained Optimization
+Meta-Surrogate Benchmarking for Hyperparameter Optimization
+Learning to Perform Local Rewriting for Combinatorial Optimization
+Bayesian Learning of Sum-Product Networks
+Bayesian Batch Active Learning as Sparse Subset Approximation
+Variational Bayesian Decision-making for Continuous Utilities
+Maximum Mean Discrepancy Gradient Flow
+Learning Sparse Distributions using Iterative Hard Thresholding
+Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion
+Hyperparameter Learning via Distributional Transfer
+High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes
+Dichotomize and Generalize: PAC-Bayesian Binary Activated Deep Neural Networks
+Efficient Non-Convex Stochastic Compositional Optimization Algorithm via Stochastic Recursive Gradient Descent
+Online Prediction of Switching Graph Labelings with Cluster Specialists
+BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning
+Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs
+Approximate Bayesian Inference for a Mechanistic Model of Vesicle Release at a Ribbon Synapse
+Tensor Monte Carlo: Particle Methods for the GPU era
+ZO-AdaMM: Zeroth-Order Adaptive Momentum Method for Black-Box Optimization
+Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
+Toward a Characterization of Loss Functions for Distribution Learning
+Optimal Sparse Decision Trees
+Manifold-regression to predict from MEG/EEG brain signals without source modeling
+GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series
+Estimating Convergence of Markov chains with L-Lag Couplings
+Learning-Based Low-Rank Approximations
+List-decodable Linear Regression
+Foundations of Comparison-Based Hierarchical Clustering
+Neural Spline Flows
+Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization
+Coresets for Clustering with Fairness Constraints
+Maximum Expected Hitting Cost of a Markov Decision Process and Informativeness of Rewards
+Stochastic Runge-Kutta Accelerates Langevin Monte Carlo and Beyond
+On two ways to use determinantal point processes for Monte Carlo integration
+Max-value Entropy Search for Multi-Objective Bayesian Optimization
+Interaction Hard Thresholding: Consistent Sparse Quadratic Regression in Sub-quadratic Time and Space
+Sparse Logistic Regression Learns All Discrete Pairwise Graphical Models
+Learning Distributions Generated by One-Layer ReLU Networks
+Chirality Nets for Human Pose Regression
+Modeling Dynamic Functional Connectivity with Latent Factor Gaussian Processes
+Learning-In-The-Loop Optimization: End-To-End Control And Co-Design Of Soft Robots Through Learned Deep Latent Representations  OOO
+Paradoxes in Fair Machine Learning
+Distributed Low-rank Matrix Factorization With Exact Consensus
+Characterizing the exact behaviors of temporal difference learning algorithms using Markov jump linear system theory
+Who is Afraid of Big Bad Minima? Analysis of gradient-flow in spiked matrix-tensor models
+Surrogate Objectives for Batch Policy Optimization in One-step Decision Making
+Modelling heterogeneous distributions with an Uncountable Mixture of Asymmetric Laplacians
+Learning Bayesian Networks with Low Rank Conditional Probability Tables
+Distributionally Robust Optimization and Generalization in Kernel Methods
+Trivializations for Gradient-Based Optimization on Manifolds
+A Meta-Analysis of Overfitting in Machine Learning
+Correlation clustering with local objectives
+A Linearly Convergent Method for Non-Smooth Non-Convex Optimization on the Grassmannian with Applications to Robust Subspace and Dictionary Learning
+DINGO: Distributed Newton-Type Method for Gradient-Norm Optimization
+Maximum Entropy Monte-Carlo Planning
+Using Statistics to Automate Stochastic Optimization
+Differentiable Convex Optimization Layers
+Covariate-Powered Empirical Bayes Estimation
+A Bayesian Theory of Conformity in Collective Decision Making
+Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel
+Memory Efficient Adaptive Optimization
+Convergence-Rate-Matching Discretization of Accelerated Optimization Flows Through Opportunistic State-Triggered Control
+Bayesian Joint Estimation of Multiple Graphical Models
+Practical Two-Step Lookahead Bayesian Optimization
+Stochastic Variance Reduced Primal Dual Algorithms for Empirical Composition Optimization
+On Robustness of Principal Component Regression
+Residual Flows for Invertible Generative Modeling
+Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes
+Decentralized sketching of low rank matrices
+Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models
+STREETS: A Novel Camera Network Dataset for Traffic Flow
+From Complexity to Simplicity: Adaptive ES-Active Subspaces for Blackbox Optimization
+A unified variance-reduced accelerated gradient method for convex optimization
+Same-Cluster Querying for Overlapping Clusters
+Sample Complexity of Learning Mixture of Sparse Linear Regressions
+Neural Proximal Policy Optimization Attains Optimal Policy
+Oracle-Efficient Algorithms for Online Linear Optimization with Bandit Feedback
+Two Time-scale Off-Policy TD Learning: Non-asymptotic Analysis over Markovian Samples
+Transfer Learning via Boosting to Minimize the Performance Gap Between Domains
+Fast PAC-Bayes via Shifted Rademacher Complexity
+High-Dimensional Optimization in Adaptive Random Subspaces
+Private Testing of Distributions via Sample Permutations
+Greedy Sampling for Approximate Clustering in the Presence of Outliers
+Distribution oblivious, risk-aware algorithms for multi-armed   bandits with unbounded rewards
+Private Stochastic Convex Optimization with Optimal Rates
+Faster Boosting with Smaller Memory
+Sparse Variational Inference: Bayesian Coresets from Scratch
+Many-Armed Bandits with High-Dimensional Contexts under a Low-Rank Structure
+Identification of Conditional Causal Effects under Markov Equivalence
+Subquadratic High-Dimensional Hierarchical Clustering
+Policy Optimization Provably Converges to Nash Equilibria in Zero-Sum Linear Quadratic Games
+A Zero-Positive Learning Approach for Diagnosing Software Performance Regressions
+Bayesian Optimization with Unknown Search Space
+Multivariate Distributionally Robust Convex Regression under Absolute Error Loss
+Generative Modeling by Estimating Gradients of the Data Distribution
+Debiased Bayesian inference for average treatment effects
+The Impact of Regularization on High-dimensional Logistic Regression
+Improved Regret Bounds for Bandit Combinatorial Optimization
+Novel positional encodings to enable tree-based transformers
+Integer Discrete Flows and Lossless Compression  OOO
+PAC-Bayes Un-Expected Bernstein Inequality
+Multi-objective Bayesian optimisation with preferences over objectives
+Think out of the "Box": Generically-Constrained Asynchronous Composite Optimization and Hedging
+Tree-Sliced Variants of Wasserstein Distances
+Comparing distributions: $\ell_1$ geometry improves kernel two-sample testing
+Robustness Verification of Tree-based Models
+Theoretical Limits of Pipeline Parallel Optimization and Application to Distributed Deep Learning
+Planning in Entropy-Regularized Markov Decision Processes and Games
+Selective Sampling-based Scalable Sparse Subspace Clustering
+Distribution Learning of a Random Spatial Field with a Location-Unaware Mobile Sensor
+Kernelized Bayesian Softmax for Text Generation
+When to Trust Your Model: Model-Based Policy Optimization
+Correlation Clustering with Adaptive Similarity Queries
+A Generic Acceleration Framework for Stochastic Composite Optimization
+Continuous-time Models for Stochastic Optimization Algorithms
+Efficient Algorithms for Smooth Minimax Optimization
+Shadowing Properties of Optimization Algorithms
+Band-Limited Gaussian Processes: The Sinc Kernel
+Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning
+Feedforward Bayesian Inference for Crowdsourced Classification  OOO
+k-Means Clustering of Lines for Big Data
+Random projections and sampling algorithms for clustering of high-dimensional polygonal curves
+Sparse High-Dimensional Isotonic Regression
+Provably robust boosted decision stumps and trees against adversarial attacks
+A Simple Baseline for Bayesian Uncertainty in Deep Learning
+Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights
+Variance Reduction in Bipartite Experiments through Correlation Clustering
+Learning Multiple Markov Chains via Adaptive Allocation
+Variational Bayes under Model Misspecification
+On the Importance of Initialization in Optimization for Deep Linear Neural Networks
+ODE2VAE: Deep generative second order ODEs with Bayesian neural networks
+Optimal Sampling and Clustering in the Stochastic Block Model
+Hierarchical Optimal Transport for Multimodal Distribution Alignment
+Specific and Shared Causal Relation Modeling and Mechanism-based Clustering
+Accelerating Rescaled Gradient Descent: Fast Optimization of Smooth Functions
+Graph Normalizing Flows
+ A New Distribution on the Simplex with Auto-Encoding Applications
+Learning about an exponential amount of conditional distributions
+On Robustness to Adversarial Examples and Polynomial Optimization
+PolyTree framework for tree ensemble analysis
+Bayesian Optimization under Heavy-tailed Payoffs
+Complexity of Highly Parallel Non-Smooth Convex Optimization
+Calculating Optimistic Likelihoods Using (Geodesically) Convex Optimization
+An  Inexact Augmented Lagrangian Framework for Nonconvex Optimization with Nonlinear Constraints
+Defending Neural Backdoors via Generative Distribution Modeling
+Multi-resolution Multi-task Gaussian Processes  OOO
+Variational Bayesian Optimal Experimental Design
+Stochastic Bandits with Context Distributions
+Fast, Provably convergent IRLS Algorithm for p-norm Linear Regression
+PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization  OOO
+Sample Efficient Active Learning of Causal Trees
+Implicit Posterior Variational Inference for Deep Gaussian Processes
+Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees
+Exact Gaussian Processes on a Million Data Points
+Bayesian Layers: A Module for Neural Network Uncertainty
+Learning Compositional Neural Programs with Recursive Tree Search and Planning
+Likelihood Ratios for Out-of-Distribution Detection
+Discrete Flows: Invertible Generative Models of Discrete Data
+Function-Space Distributions over Kernels
+SGD for Least Squares Regression: Towards Minimax Optimality with the Final Iterate
+Computational Separations between Sampling and Optimization
+Surfing: Iterative Optimization Over Incrementally Trained Deep Networks
+Multi-task Learning for Aggregated Data using Gaussian Processes
+Minimal Variance Sampling in Stochastic Gradient Boosting
+An Algorithm to Learn Polytree Networks with Hidden Nodes
+Projected Stein Variational Newton: A Fast and Scalable Bayesian Inference Method in High Dimensions
+Flexible Modeling of Diversity with Strongly Log-Concave Distributions
+Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness 
+Flattening a Hierarchical Clustering through Active Learning
+Kernel Truncated Randomized Ridge Regression: Optimal Rates and Low Noise Acceleration
+Low-Rank Bandit Methods for High-Dimensional Dynamic Pricing
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks
+BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos  OOO
+Gradient-based Adaptive Markov Chain Monte Carlo
+Distributionally Optimistic Optimization Approach to Nonparametric Likelihood Approximation
+Enabling hyperparameter optimization in sequential autoencoders for spiking neural data

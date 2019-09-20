@@ -1,0 +1,35 @@
+Noise-tolerant fair classification
+Saccader: Accurate, Interpretable Image Classification with Hard Attention
+Multi-label Co-regularization for Semi-supervised Facial Action Unit Recognition
+On The Classification-Distortion-Perception Tradeoff
+Envy-Free Classification
+On the Calibration of Multiclass Classification  with Rejection
+Dual Variational Generation for Low Shot Heterogeneous Face Recognition
+Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components
+Meta-Reinforced Synthetic Data for One-Shot Fine-Grained Visual Recognition  OOO
+The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the XAUC Metric
+Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation
+Cross Attention Network for Few-shot Classification  OOO
+AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification
+On the Hardness of Robust Classification
+An adaptive nearest neighbor rule for classification
+LiteEval: A Coarse-to-Fine Framework for Resource Efficient Video Recognition
+Fast and Flexible Multi-Task Classification using Conditional Neural Adaptive Processes
+This Looks Like That: Deep Learning for Interpretable Image Recognition
+Equal Opportunity in Online Classification with Partial Feedback
+ObjectNet: A large-scale bias-controlled dataset for pushing the limits of object recognition models
+A neurally plausible model for online recognition andpostdiction in a dynamical environment
+Learning metrics for persistence-based summaries and applications for graph classification
+Unsupervised Meta Learning for Few-Show Image Classification
+Learning to Self-Train for Semi-Supervised Few-Shot Classification  OOO
+Rates of Convergence for Large-scale Nearest Neighbor Classification
+Calibration tests in multi-class classification: A unifying framework
+Classification Accuracy Score for Conditional Generative Models
+Leveraging Labeled and Unlabeled Data for Consistent Fair Binary Classification
+Feedforward Bayesian Inference for Crowdsourced Classification
+Brain-Like Object Recognition with High-Performing Shallow Recurrent ANNs
+Shallow RNN:  Accurate Time-series Classification on Resource Constrained Devices
+Simultaneous Matching and Ranking as end-to-end Deep Classification: A Case study of Information Retrieval with 50M Documents
+A New Perspective on Pool-Based Active Classification and False-Discovery Control
+Untangling in Invariant Speech Recognition 
+Reverse engineering recurrent networks for sentiment classification reveals line attractor dynamics

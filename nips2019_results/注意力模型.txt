@@ -1,0 +1,17 @@
+Stand-Alone Self-Attention in Vision Models
+Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks
+Saccader: Accurate, Interpretable Image Classification with Hard Attention  OOO
+One-Shot Object Detection with Co-Attention and Co-Excitation  OOO
+Cross Attention Network for Few-shot Classification  OOO  OOO
+Understanding attention in graph neural networks
+Efficient Graph Generation with Graph Recurrent Attention Networks
+Incremental Few-Shot Learning with Attention Attractor Networks  OOO
+AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification  OOO
+Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning
+Compositional De-Attention Networks
+Adaptively Aligned Image Captioning via Adaptive Attention Time
+Cell-Attention Reduces Vanishing Saliency of Recurrent Neural Networks
+Towards Interpretable Reinforcement Learning Using Attention Augmented Agents
+Mindreader: A Self Validation Network for Object-Level Human Attention Reasoning
+Semantic-Guided Multi-Attention Localization for Zero-Shot Learning  OOO
+Self-attention with Functional Time Representation Learning  OOO
